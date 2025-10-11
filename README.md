@@ -6,7 +6,7 @@ A personal repo for Python assignments.
 
 This repo is a directory for my Tutedude assignments for Python.
 
-## Tasks
+## Assignment 1
 
 - **Task 1:** Made a basic calculation program and used escape characters for replicating the output screenshot in the task.
 - **Task 2:** Added a greeting message and used escape characters.
