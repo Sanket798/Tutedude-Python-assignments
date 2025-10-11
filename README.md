@@ -11,4 +11,9 @@ This repo is a directory for my Tutedude assignments for Python.
 - **Task 1:** Made a basic calculation program and used escape characters for replicating the output screenshot in the task.
 - **Task 2:** Added a greeting message and used escape characters.
 
+## Assignment 2
+
+- **Task 1:** Made a basic odd and even check using if else .
+- **Task 2:** Created a for loop to obtain the sum from 1 to 50 using range(51).
+
 ---
